@@ -1,4 +1,4 @@
-# ------------------------------------------------------
+# no me gusta esta pagina :c
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
 # ------------------------------------------------------
